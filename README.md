@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Johan Aguilar</h1>
-<h3 align="center">A passionate developer and competitive programming from Mexico, specialist in Project Management.</h3>
+<h3 align="center">A developer and competitive programming from Mexico.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=johanaguilar12&label=Profile%20views&color=0e75b6&style=flat" alt="johanaguilar12" /> </p>
 
@@ -7,8 +7,6 @@
 - 🔭 I’m currently working on [WITAMO](https://www.witamo.mx/)
 
 - 🌱 I’m currently learning **courses of Project Management and Competitive Programming**
-
-- 💬 Ask me about **Jira, Git, and any problem that you have**
 
 - 📫 How to reach me **johanaguilarperezz@gmail.com**
 
