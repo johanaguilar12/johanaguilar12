@@ -4,9 +4,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=johanaguilar12&label=Profile%20views&color=0e75b6&style=flat" alt="johanaguilar12" /> </p>
 
 
-- 🔭 I’m currently working on [WITAMO](https://www.witamo.mx/)
-
-- 🌱 I’m currently learning **courses of Project Management and Competitive Programming**
+- 🌱 I’m currently learning **courses of Software and Competitive Programming**
 
 - 📫 How to reach me **johanaguilarperezz@gmail.com**
 
